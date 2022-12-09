@@ -3,6 +3,7 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+/* upper section design start */
 .upper-section{
     display: flex;
 }
@@ -38,3 +39,32 @@ body{
     border-radius: 10px;
     background-image: linear-gradient(#FF9F08, #FF6743);
 }
+/* upper section design end */
+
+/* middle section design start */
+.middle-section{
+    display: flex;
+    margin-top: 60px;
+}
+#middle-section-picture{
+    width: 480px;
+    height: 480px;
+    
+    margin-left:3rem ;
+}
+.right-side{
+    margin-left: 150px;
+}
+.right-side h3{
+    font-size: 30px;
+}
+#btn-number2{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 46px;
+    border-radius: 10px;
+    background-image: linear-gradient(#FF9F08, #FF6743);
+}
+
+/* middle section design end */
